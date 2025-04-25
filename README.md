@@ -10,17 +10,12 @@ This repository contains my personal collection of **picoCTF** challenge solves,
 ```
 picoctf/
 ├── web/
-│   ├── ssti_exploit.py
-│   └── README.md
+│   ├── ssti1.py
+│   └── wherearetherobots.py
 ├── pwn/
-│   ├── bof_exploit.py
-│   └── ret2libc.py
 ├── reverse/
-│   └── crackme.py
 ├── crypto/
-│   └── lcg_solver.py
 ├── misc/
-│   └── stegsolve_notes.md
 └── README.md
 ```
 
