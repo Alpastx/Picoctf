@@ -10,8 +10,9 @@ This repository contains my personal collection of **picoCTF** challenge solves,
 picoctf/
 ├── web/
 │   ├── ssti1.py
-│   |── wherearetherobots.py
-|   └── webdecode.py
+│   │── wherearetherobots.py
+│   │── webdecode.py
+│   └── CookieMonster.py   
 ├── pwn/
 ├── reverse/
 ├── crypto/
