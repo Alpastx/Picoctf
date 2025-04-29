@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup as bs
 import base64
 
-url = "aasdad"
+url = ""
 aboutpage = url+"about.html"
 response = requests.get(url=aboutpage)    
 soup = bs(response.text, 'html.parser')
