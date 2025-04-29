@@ -16,6 +16,7 @@ picoctf/
 │   │── Cookies.py
 │   │── includes.py
 │   │── logon.py
+│   │── unminify.py
 │   └── Insp3ct0r.py
 ├── pwn/
 ├── reverse/
