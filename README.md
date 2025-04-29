@@ -15,6 +15,8 @@ picoctf/
 │   │── CookieMonster.py
 │   │── Cookies.py
 │   │── includes.py
+│   │── dontuseclientside.py
+│   │── localauth.py
 │   │── logon.py
 │   │── unminify.py
 │   └── Insp3ct0r.py
