@@ -1,1 +1,0 @@
-flag = soup.find_all('p')[1]
