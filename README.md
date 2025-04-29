@@ -12,10 +12,11 @@ picoctf/
 │   ├── ssti1.py
 │   │── wherearetherobots.py
 │   │── webdecode.py
-│   │─ CookieMonster.py
+│   │── CookieMonster.py
 │   │── Cookies.py
 │   │── includes.py
-│   └── logon.py
+│   │── logon.py
+│   └── Insp3ct0r.py
 ├── pwn/
 ├── reverse/
 ├── crypto/
