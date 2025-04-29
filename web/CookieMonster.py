@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as bs
 import base64
 import urllib.parse
 
-url = "http://verbal-sleep.picoctf.net:56571/"
+url = ""
 protected_url = url+"login.php"
 data = {
     "username": "bla",
@@ -16,12 +16,3 @@ encoded_flag = urllib.parse.unquote(encoded_flag)
 flag = base64.b64decode(encoded_flag).decode('utf-8')
 print(flag)
 
-
-
-
-
-
-
-#response = createSession.post(url, data=data)
-#flag = createSession.get(url+"login.php")
-##print(response.text)
