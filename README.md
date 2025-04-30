@@ -21,6 +21,7 @@ picoctf/
 │   │── unminify.py
 │   │── getAHead.py
 │   │── scavengerhunt.py
+│   │── head-dump.py
 │   └── Insp3ct0r.py
 ├── pwn/
 ├── reverse/
