@@ -19,6 +19,8 @@ picoctf/
 │   │── localauth.py
 │   │── logon.py
 │   │── unminify.py
+│   │── getAHead.py
+│   │── scavengerhunt.py
 │   └── Insp3ct0r.py
 ├── pwn/
 ├── reverse/
