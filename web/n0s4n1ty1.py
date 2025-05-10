@@ -1,7 +1,7 @@
 import requests
 
 # Target upload URL (change port if needed)
-url = "http://standard-pizzas.picoctf.net:56265/"
+url = ""
 
 uploadUrl = url+"upload.php"
 
