@@ -23,6 +23,7 @@ picoctf/
 │   │── scavengerhunt.py
 │   │── head-dump.py
 │   │── n0s4n1ty1.py
+│   │── ssti2.py
 │   └── Insp3ct0r.py
 ├── pwn/
 ├── reverse/
